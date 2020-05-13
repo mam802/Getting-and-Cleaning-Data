@@ -18,6 +18,7 @@ Files:
 
 
 Descriptions:
+
 'train/subject_train.txt': Ranges from 1-30; the subject who performed the activity
 
 'train/Inertial Signals/total_acc_x_train.txt': The acceleration signal from the smartphone accelerometer X axis in standard gravity units 'g'. Same description applies for the 'total_acc_x_train.txt' and 'total_acc_z_train.txt' files for the Y and Z axis.
